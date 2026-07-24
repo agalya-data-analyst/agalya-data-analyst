@@ -1,49 +1,9 @@
 <div align="center">
 
-<!-- 100% Working GitHub Native Animated SVG Banner -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" width="100%" height="180" style="background: #0d1117; border-radius: 12px; font-family: 'Segoe UI', Ubuntu, sans-serif;">
-  <defs>
-    <!-- Background Animated Gradient -->
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f172a">
-        <animate attributeName="stop-color" values="#0f172a; #1e1b4b; #0f172a" dur="8s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="50%" stop-color="#1e293b">
-        <animate attributeName="stop-color" values="#1e293b; #311b92; #1e293b" dur="8s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="100%" stop-color="#0284c7">
-        <animate attributeName="stop-color" values="#0284c7; #4f46e5; #0284c7" dur="8s" repeatCount="indefinite" />
-      </stop>
-    </linearGradient>
+# 📊 AGALYA J
+### **DATA ANALYST | POWER BI • SQL • PYTHON • EXCEL**
 
-    <!-- Text Glow Effect -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
-  </defs>
-
-  <!-- Animated Background Rect -->
-  <rect width="100%" height="100%" fill="url(#bgGrad)" rx="12"/>
-
-  <!-- Decorative Animated Grid Line -->
-  <line x1="0" y1="175" x2="800" y2="175" stroke="#38bdf8" stroke-width="3">
-    <animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/>
-  </line>
-
-  <!-- Animated Name: AGALYA J -->
-  <text x="50%" y="75" text-anchor="middle" fill="#ffffff" font-size="42" font-weight="800" letter-spacing="4" filter="url(#glow)">
-    AGALYA J
-    <animate attributeName="fill" values="#ffffff;#38bdf8;#ffffff" dur="5s" repeatCount="indefinite"/>
-  </text>
-
-  <!-- Subtitle: DATA ANALYST -->
-  <text x="50%" y="120" text-anchor="middle" fill="#38bdf8" font-size="16" font-weight="600" letter-spacing="2">
-    DATA ANALYST | POWER BI • SQL • PYTHON • EXCEL
-  </text>
-</svg>
-
-<br/>
+---
 
 <!-- Clean Typing Animation -->
 <a href="https://github.com/agalya-data-analyst">
