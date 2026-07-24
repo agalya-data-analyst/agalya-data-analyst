@@ -1,12 +1,11 @@
 <div align="center">
 
-# Agalya J
-### Data Analyst | Power BI • SQL • Advanced Excel • Python
-
+<!-- 3D Waving Animated Header Banner for Agalya J -->
+<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=0,1F2937,3B82F6,60A5FA,0078D4&height=200&section=header&text=AGALYA%20J&fontSize=48&fontColor=ffffff&desc=DATA%20ANALYST%20%7C%20POWER%20BI%20%E2%80%A2%20SQL%20%E2%80%A2%20PYTHON%20%E2%80%A2%20EXCEL&descSize=16&descAlignY=70&stroke=00000000&animation=twinkle" width="100%" />
 
 <br/>
 
-<!-- Clean Typing Animation (No Star Emoji) -->
+<!-- Clean Typing Animation -->
 <a href="https://github.com/agalya-data-analyst">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=0078D4&center=true&vCenter=true&width=700&height=45&lines=SQL+%7C+Power+BI+%7C+Python+%7C+Advanced+Excel+%7C+DAX;Building+Dynamic+Dashboards+%26+Interactive+Analytics+%F0%9F%93%8A;Transforming+Raw+Data+into+Actionable+Insights+%F0%9F%92%A1" alt="Typing Animation" />
 </a>
