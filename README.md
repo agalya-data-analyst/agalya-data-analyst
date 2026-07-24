@@ -34,13 +34,47 @@ agalya = {
 
 ## 🛠 Tech Stack
 
-### 🔹 Query & Programming
+<div align="center">
 
-### 🔹 Data Visualization & BI
+### 🔹 Databases & Querying Languages
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🔹 Python Libraries
+<br/>
 
-### 🔹 Tools & Platforms
+### 🔹 Business Intelligence & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=power-bi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+<br/>
+
+### 🔹 Data Processing & Analytics Libraries
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<br/>
+
+### 🔹 Analytics Core Concepts & Methodologies
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-008080?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-4682B4?style=for-the-badge&logo=databricks&logoColor=white)
+![Star Schema](https://img.shields.io/badge/Star_Schema-2E8B57?style=for-the-badge&logo=powerbi&logoColor=white)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-8A2BE2?style=for-the-badge&logo=googleanalytics&logoColor=white)
+
+<br/>
+
+### 🔹 Tools, Editors & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
 
 ---
 
