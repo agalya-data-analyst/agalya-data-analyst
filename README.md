@@ -1,16 +1,17 @@
-<p align="center">
-  <img src="Github-banner.gif.gif" alt="GitHub Banner" width="100%">
-</p>
+<div align="center">
+
+<img src="Beige%20Minimalist%20Professional%20LinkedIn%20Background%20Photo.png" width="100%" alt="Header Banner" />
 
 <br/><br/>
 
-<!-- Standard Clean Typing Animation -->
+<!-- Typing Animation Line -->
 <a href="https://github.com/agalya-data-analyst">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=0078D4&center=true&vCenter=true&width=700&height=45&lines=SQL+%7C+Power+BI+%7C+Python+%7C+Advanced+Excel+%7C+DAX;Building+Dynamic+Dashboards+%26+Interactive+Analytics+%F0%9F%93%8A;Transforming+Raw+Data+into+Actionable+Insights+%F0%9F%92%A1" alt="Typing Animation" />
 </a>
 
 <br/><br/>
 
+<!-- Profile Badges -->
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agalyajayapal/)
 [![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agalya-data-analyst)
 ![Profile Views](https://komarev.com/ghpvc/?username=agalya-data-analyst&color=008080&style=for-the-badge)
