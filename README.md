@@ -154,10 +154,10 @@ agalya = {
 [PRIMARY_STACK]: SQL | Power BI | Python | Excel
 [METRICS_LOG]  : 100K+ Shipment Rows Cleaned | 3+ Star Schema Models Built
 [TARGET_ROLE]  : Junior Data Analyst / Supply Chain Analyst
+</div>
 ---
 
-
-## 🎓 **Currently Learning & Up-skilling**
+## 🎓 Currently Learning & Up-skilling
 
 | Skill / Domain | Focus Area | Status |
 | --- | --- | --- |
@@ -168,7 +168,7 @@ agalya = {
 
 ---
 
-## 🤝 **Let's Connect**
+## 🤝 Let's Connect
 
 I am actively seeking **Junior Data Analyst ** opportunities. Let's collaborate or discuss data-driven roles!
 
