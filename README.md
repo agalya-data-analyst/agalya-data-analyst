@@ -1,8 +1,8 @@
 <div align="center">
 
+<!-- Updated File Name -->
 <img src="Github-banner.gif" width="100%" />
 
-</div>
 <br/><br/>
 
 <!-- Standard Clean Typing Animation -->
