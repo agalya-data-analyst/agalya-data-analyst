@@ -155,6 +155,7 @@ agalya = {
 [PRIMARY_STACK]: SQL | Power BI | Python | Excel
 [METRICS_LOG]  : 100K+ Shipment Rows Cleaned | 3+ Star Schema Models Built
 [TARGET_ROLE]  : Junior Data Analyst / Supply Chain Analyst
+```
 
 ## 🎓 Currently Learning & Up-skilling
 
