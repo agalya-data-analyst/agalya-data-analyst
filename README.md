@@ -1,13 +1,13 @@
 <div align="center">
 
-<table width="100%">
-  <tr>
-    <td align="center" bgcolor="#1F2937" style="padding:25px;">
-      <h1 align="center"><font color="#ffffff" size="7" face="Calibri">AGALYA J</font></h1>
-      <p align="center"><font color="#3B82F6" size="4" face="Calibri"><b>DATA ANALYST | POWER BI • SQL • PYTHON • EXCEL</b></font></p>
-    </td>
-  </tr>
-</table>
+<!-- Animated Header Image -->
+<a href="https://github.com/agalya-data-analyst">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Header" width="100%" hidden />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036e00-a425-11eb-8542-c11f77434220.gif" width="100%" height="160px" />
+</a>
+
+<h1 align="center">AGALYA J</h1>
+<p align="center"><b>DATA ANALYST | POWER BI • SQL • PYTHON • EXCEL</b></p>
 
 <br/>
 
