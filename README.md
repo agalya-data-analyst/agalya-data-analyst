@@ -130,12 +130,28 @@ agalya = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=agalya-data-analyst&show_icons=true&theme=radial&hide_border=true" alt="Agalya's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agalya-data-analyst&layout=compact&theme=radial&hide_border=true" alt="Most Used Languages" width="42%" />
+<!-- 1. Snake Animation on Contribution Grid -->
+### 🐍 Contribution Snake
+<img src="https://raw.githubusercontent.com/agalya-data-analyst/agalya-data-analyst/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+
+<br/>
+<br/>
+
+<!-- 2. Neon Activity Line Graph -->
+### ⚡ Contribution Activity Wave
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=agalya-data-analyst&theme=react-dark&hide_border=true&area=true" alt="Agalya's Activity Graph" width="95%" />
+
+<br/>
+<br/>
+
+<!-- 3. Dynamic Stats Cards with Glassmorphism / Dark Theme -->
+<img src="https://github-readme-stats.vercel.app/api?username=agalya-data-analyst&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Agalya's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agalya-data-analyst&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="42%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=agalya-data-analyst&theme=radial&hide_border=true" alt="GitHub Streak" width="90%" />
+<!-- 4. Dynamic Commit Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=agalya-data-analyst&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%" />
 
 </div>
 ---
