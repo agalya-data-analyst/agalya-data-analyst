@@ -1,7 +1,14 @@
 <div align="center">
 
-<!-- Clean 3D Waving Animated Banner -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=AGALYA%20J&fontSize=48&fontColor=ffffff&desc=DATA%20ANALYST%20%7C%20POWER%20BI%20%7C%20SQL%20%7C%20PYTHON%20%7C%20EXCEL&descSize=16&descAlignY=70" width="100%" />
+<!-- Pure HTML 3D Styled Header Box (No Image Loading Issue) -->
+<div style="background: linear-gradient(135deg, #1f2937, #1e3a8a, #0078d4); padding: 30px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.4); margin-bottom: 20px;">
+  <h1 style="color: #ffffff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 42px; margin: 0; text-transform: uppercase; letter-spacing: 3px; text-shadow: 2px 2px 8px #000000;">
+    AGALYA J
+  </h1>
+  <p style="color: #60a5fa; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; margin-top: 10px; font-weight: 600; letter-spacing: 2px;">
+    DATA ANALYST | POWER BI • SQL • PYTHON • EXCEL
+  </p>
+</div>
 
 <br/>
 
