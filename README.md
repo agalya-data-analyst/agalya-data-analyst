@@ -128,6 +128,16 @@ agalya = {
 
 ## 📈 GitHub Activity
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=agalya-data-analyst&show_icons=true&theme=radial&hide_border=true" alt="Agalya's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agalya-data-analyst&layout=compact&theme=radial&hide_border=true" alt="Most Used Languages" width="42%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=agalya-data-analyst&theme=radial&hide_border=true" alt="GitHub Streak" width="90%" />
+
+</div>
 ---
 
 ## 🎓 Currently Learning & Up-skilling
