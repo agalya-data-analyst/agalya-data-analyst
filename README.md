@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Clean 3D Waving Animated Banner -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=0,1F2937,3B82F6,60A5FA,0078D4&height=200&section=header&text=AGALYA%20J&fontSize=48&fontColor=ffffff&desc=DATA%20ANALYST%20%7C%20POWER%20BI%20%7C%20SQL%20%7C%20PYTHON%20%7C%20EXCEL&descSize=16&descAlignY=70&stroke=00000000&animation=twinkle" width="100%" />
+<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=AGALYA%20J&fontSize=48&fontColor=ffffff&desc=DATA%20ANALYST%20%7C%20POWER%20BI%20%7C%20SQL%20%7C%20PYTHON%20%7C%20EXCEL&descSize=16&descAlignY=70" width="100%" />
 
 <br/>
 
