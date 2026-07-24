@@ -157,18 +157,29 @@ agalya = {
 [TARGET_ROLE]  : Junior Data Analyst / Supply Chain Analyst
 ```
 
-## ⚡ Strategic Analytics Capability Matrix
+## ⚡ Continuous Upskilling & Capability Flow
 
 <div align="center">
 
-### 🎯 Core Execution Domains
+### 🎯 Skill Expansion Pipeline
 
-| Analytics Domain | High-Impact Deliverables & Capability | Core Toolkit |
-| :--- | :--- | :---: |
-| ⚡ **Database Querying** | CTEs, Window Functions, Query Optimization & Joins | ![SQL](https://img.shields.io/badge/SQL-Expertise-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white) |
-| 📊 **Enterprise BI & Modeling** | Star Schema, Dynamic DAX Measures, Time Intelligence | ![Power BI](https://img.shields.io/badge/Power_BI-Mastery-217346?style=for-the-badge&logo=power-bi&logoColor=white) |
-| 🐍 **Python Wrangling** | Automated EDA, Pandas Scripts, Data Cleaning | ![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| 🚚 **Supply Chain KPIs** | Delay Variance, Delivery Performance, Inventory Metrics | ![Supply Chain](https://img.shields.io/badge/Operations-Analytics-CC292B?style=for-the-badge&logo=google&logoColor=white) |
+`INPUT: Raw Concepts` ➔ `PROCESSING: Advanced Mastery` ➔ `OUTPUT: Portfolio Impact`
+
+<br/>
+
+![Step 1](https://img.shields.io/badge/01._SQL_Engine-CTEs_%7C_Window_Functions_%7C_Query_Optimization-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white)
+
+⬇️
+
+![Step 2](https://img.shields.io/badge/02._BI_Modeling-Star_Schema_%7C_Dynamic_DAX_%7C_Power_BI-217346?style=for-the-badge&logo=power-bi&logoColor=white)
+
+⬇️
+
+![Step 3](https://img.shields.io/badge/03._Automation-Python_EDA_%7C_Pandas_%7C_Workflow_Scripts-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+⬇️
+
+![Step 4](https://img.shields.io/badge/04._Target_Impact-Supply_Chain_KPIs_%7C_Operational_Dashboards-CC292B?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
