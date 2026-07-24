@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Beige Minimalist Professional LinkedIn Background Photo.gif" width="100%" />
+<img src="Github-banner.gif" width="100%" />
 
 </div>
 <br/><br/>
