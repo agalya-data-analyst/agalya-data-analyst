@@ -79,14 +79,19 @@ agalya = {
 
 ---
 
-## 📑 Core Competencies
+## 🎯 Core Competencies
 
-| 🔍 Analysis | 📊 Visualization | ⚙️ Data Preparation | 📈 Business Impact |
-| --- | --- | --- | --- |
-| Exploratory Data Analysis | Power BI Dashboards | Data Cleaning & Wrangling | KPI Tracking & Design |
-| Shipping Variance Tracking | Power Query & DAX | Data Modeling | Inventory Optimization |
-| Operational Metrics | Pivot Tables & Charts | Cardinality & Bridge Tables | Process Efficiency |
+<div align="center">
 
+| Technical Competencies | Analytical & Operational Competencies |
+| :--- | :--- |
+| 🔹 **Data Cleaning & Wrangling** (Power Query, Pandas) | 🔹 **KPI & Business Metrics Tracking** |
+| 🔹 **Exploratory Data Analysis - EDA** (Python, NumPy) | 🔹 **Supply Chain & Operational Analytics** |
+| 🔹 **Data Modeling & Schema Design** (Star Schema) | 🔹 **Root Cause & Variance Analysis** |
+| 🔹 **Interactive Dashboard Design** (Power BI, DAX) | 🔹 **Automated Data Processing & Scripting** |
+| 🔹 **Relational Database Querying** (SQL, Joins) | 🔹 **Cross-Functional Collaboration & Reporting** |
+
+</div>
 ---
 
 ## 📌 Featured Projects
