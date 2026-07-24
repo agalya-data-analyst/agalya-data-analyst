@@ -3,13 +3,12 @@
 # Agalya J
 ### Data Analyst | Power BI • SQL • Advanced Excel • Python
 
-**SQL | Power BI | Python | Advanced Excel | Power Query | DAX**
 
 <br/>
 
-<!-- 🎯 Typing Animation - Skills, Analytics Keywords & Mission -->
+<!-- Clean Typing Animation (No Star Emoji) -->
 <a href="https://github.com/agalya-data-analyst">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=0078D4&center=true&vCenter=true&width=700&height=50&lines=Core+Skills%3A+SQL+%7C+Power+BI+%7C+Python+%7C+Excel;Analytics%3A+Data+Cleaning+%7C+Star+Schema+%7C+DAX;Focus%3A+Supply+Chain+%7C+Delivery+Variance+%7C+OTIF;Mission%3A+Turning+raw+data+into+actionable+insights." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=0078D4&center=true&vCenter=true&width=700&height=45&lines=SQL+%7C+Power+BI+%7C+Python+%7C+Advanced+Excel+%7C+DAX;Building+Dynamic+Dashboards+%26+Interactive+Analytics+%F0%9F%93%8A;Transforming+Raw+Data+into+Actionable+Insights+%F0%9F%92%A1" alt="Typing Animation" />
 </a>
 
 <br/><br/>
