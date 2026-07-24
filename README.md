@@ -157,14 +157,18 @@ agalya = {
 [TARGET_ROLE]  : Junior Data Analyst / Supply Chain Analyst
 ```
 
-## ⚡ Core Analytics Radar & Strategic Focus
+## ⚡ Strategic Analytics Capability Matrix
 
-> 💡 **Strategic Focus:** Harnessing modern data stacks to eliminate operational bottlenecks, automate reporting workflows, and deliver executive-level decision support.
+<div align="center">
 
-* 🔹 **Advanced Query Engine:** Complex SQL Querying, CTEs, Window Functions & Schema Optimization
-* 🔹 **Business Intelligence Engine:** Dynamic Power BI Dashboards, Advanced DAX & Star Schema Modeling
-* 🔹 **Data Processing Pipeline:** Python (Pandas/NumPy) for automated EDA, Data Cleaning & Scripting
-* 🔹 **Operational Intelligence:** Supply Chain KPIs, OTIF Metrics, Variance Analysis & Automated Reporting
+### 🎯 Core Execution Domains
+
+| Analytics Domain | High-Impact Deliverables & Capability | Core Toolkit |
+| :--- | :--- | :---: |
+| ⚡ **Database Querying** | CTEs, Window Functions, Query Optimization & Joins | ![SQL](https://img.shields.io/badge/SQL-Expertise-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white) |
+| 📊 **Enterprise BI & Modeling** | Star Schema, Dynamic DAX Measures, Time Intelligence | ![Power BI](https://img.shields.io/badge/Power_BI-Mastery-217346?style=for-the-badge&logo=power-bi&logoColor=white) |
+| 🐍 **Python Wrangling** | Automated EDA, Pandas Scripts, Data Cleaning | ![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| 🚚 **Supply Chain KPIs** | Delay Variance, Delivery Performance, Inventory Metrics | ![Supply Chain](https://img.shields.io/badge/Operations-Analytics-CC292B?style=for-the-badge&logo=google&logoColor=white) |
 
 </div>
 
