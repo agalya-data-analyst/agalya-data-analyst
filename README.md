@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- This is your updated banner from Canva -->
-<img src="image_6.png" alt="Agalya J - Data Analyst Profile Banner" width="100%" />
+<img src="Beige Minimalist Professional LinkedIn Background Photo.gif" width="100%" />
 
+</div>
 <br/><br/>
 
 <!-- Standard Clean Typing Animation -->
