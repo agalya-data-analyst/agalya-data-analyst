@@ -1,33 +1,42 @@
 <div align="center">
 
-# Agalya J
-### Data Analyst | Power BI • SQL • Advanced Excel • Python
-
-**SQL | Power BI | Python | Advanced Excel | Power Query | DAX ⚡**
+<!-- Animated Waving Header Banner -->
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0078D4&height=180&section=header&text=Agalya%20J&fontSize=42&fontColor=ffffff&desc=Junior%20Data%20Analyst%20%7C%20Supply%20Chain%20%26%20Operations&descSize=18&descAlignY=72" width="100%" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agalyajayapal/)
-[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agalya-data-analyst)
-![Profile Views](https://komarev.com/ghpvc/?username=agalya-data-analyst&color=008080&style=for-the-badge)
+<!-- Varshini Style Typing Animation Text -->
+<a href="https://github.com/agalya-data-analyst">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0078D4&center=true&vCenter=true&width=600&height=40&lines=SQL+%7C+Power+BI+%7C+Python+%7C+Advanced+Excel;Supply+Chain+%26+Operations+Analytics;Power+Query+%7C+DAX+%7C+Data+Modeling" alt="Typing Animation" />
+</a>
 
-</div>
+<br/><br/>
+
+<!-- Sleek Interactive Badges & Views Counter -->
+<a href="https://www.linkedin.com/in/agalyajayapal/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/agalya-data-analyst">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=agalya-data-analyst&color=0078d4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 ---
 
-## 👩‍💻 About Me
+</div>
+
+## 🙋‍♀️ About Me
 
 ```json
 agalya = {
-    "name"         : "Agalya J",
-    "target_role"  : "Junior Data Analyst | Supply Chain Analyst",
-    "education"    : "B.E. Mechanical Engineering",
-    "background"   : "Logistics & Supply Chain Operations Experience -> Data Analytics Transition",
-    "focus"        : ["Data Cleaning & Wrangling", "SQL Querying & Data Modeling", "Interactive Dashboard Visuals", "Supply Chain Analytics"],
-    "tech_stack"   : ["SQL", "Power BI", "Power Query", "DAX", "Advanced Excel", "Python"],
-    "mission"      : "To solve complex business and operational problems by turning raw data into clear, actionable visual insights."
- }      
-
+    "name": "Agalya J",
+    "target_role": "Junior Data Analyst | Supply Chain Analyst",
+    "education": "B.E. Mechanical Engineering",
+    "background": "Logistics & Supply Chain Operations Experience -> Data Analytics Transition",
+    "focus": ["Data Cleaning & Wrangling", "SQL Querying & Data Modeling", "Interactive Dashboard Visuals", "Supply Chain Analytics"],
+    "tech_stack": ["SQL", "Power BI", "Power Query", "DAX", "Advanced Excel", "Python"],
+    "mission": "To solve complex business and operational problems by turning raw data into clear, actionable visual insights."
+}
 ```
 
 ---
