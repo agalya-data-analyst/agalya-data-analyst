@@ -157,14 +157,18 @@ agalya = {
 [TARGET_ROLE]  : Junior Data Analyst / Supply Chain Analyst
 ```
 
-## 🎓 Currently Learning & Up-skilling
+## 🚀 Currently Learning & Skill Mastery
 
-| Skill / Domain | Focus Area | Status |
-| --- | --- | --- |
-| **Advanced SQL** | Window Functions, CTEs & Complex Joins | 🔄 In Progress |
-| **DAX & Power BI** | Advanced Data Modeling & Star Schemas | 🔄 In Progress |
-| **Python for Data Science** | Pandas, NumPy & Data Manipulation | 🔄 In Progress |
-| **AI-Driven Analytics** | Automated Insights & Modern Analytics Tools | 🔄 In Progress |
+<div align="center">
+
+| Domain & Focus | Core Concept | Live Output / Project Focus | Learning Status |
+| :--- | :--- | :--- | :---: |
+| ⚡ **Advanced SQL** | Window Functions, CTEs & Query Optimization | Complex Joins & Business Logic Queries | ![In Progress](https://img.shields.io/badge/Active-In_Progress-0A66C2?style=flat-square&logo=postgresql) |
+| 📊 **Power BI & DAX** | Star Schemas, Dynamic Measures & Time Intelligence | Automated Logistics Dashboards | ![In Progress](https://img.shields.io/badge/Active-In_Progress-217346?style=flat-square&logo=power-bi) |
+| 🐍 **Python Analytics** | Automated Wrangling with Pandas & NumPy | Exploratory Data Analysis (EDA) Scripts | ![In Progress](https://img.shields.io/badge/Active-In_Progress-3776AB?style=flat-square&logo=python) |
+| 🤖 **AI-Driven Data Analytics** | Automated Insights & Modern Analytics Tools | Dynamic Business Reporting Workflows | ![In Progress](https://img.shields.io/badge/Active-In_Progress-CC292B?style=flat-square&logo=openai) |
+
+</div>
 
 ---
 
