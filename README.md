@@ -130,32 +130,31 @@ agalya = {
 
 <div align="center">
 
-<!-- Modern Metric Cards (Plain Table-ku badhula Sleek Cards) -->
-<a href="https://github.com/agalya-data-analyst">
-  <img src="https://img.shields.io/badge/Public_Repositories-10+-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+<!-- Modern Metric Cards -->
+<a href="[https://github.com/agalya-data-analyst](https://github.com/agalya-data-analyst)">
+  <img src="[https://img.shields.io/badge/Public_Repositories-10+-0A66C2?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Public_Repositories-10+-0A66C2?style=for-the-badge&logo=github&logoColor=white)" />
 </a>
-<a href="https://github.com/agalya-data-analyst">
-  <img src="https://img.shields.io/badge/Live_Dashboards-3_Completed-217346?style=for-the-badge&logo=power-bi&logoColor=white" />
+<a href="[https://github.com/agalya-data-analyst](https://github.com/agalya-data-analyst)">
+  <img src="[https://img.shields.io/badge/Live_Dashboards-3_Completed-217346?style=for-the-badge&logo=power-bi&logoColor=white](https://img.shields.io/badge/Live_Dashboards-3_Completed-217346?style=for-the-badge&logo=power-bi&logoColor=white)" />
 </a>
-<a href="https://github.com/agalya-data-analyst">
-  <img src="https://img.shields.io/badge/Data_Processed-100K%2B_Rows-CC292B?style=for-the-badge&logo=python&logoColor=white" />
+<a href="[https://github.com/agalya-data-analyst](https://github.com/agalya-data-analyst)">
+  <img src="[https://img.shields.io/badge/Data_Processed-100K%2B_Rows-CC292B?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Data_Processed-100K%2B_Rows-CC292B?style=for-the-badge&logo=python&logoColor=white)" />
 </a>
 
 <br/><br/>
 
-<!-- Real-time Activity Graph (Dark Neon Wave Theme) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=agalya-data-analyst&theme=github-compact&hide_border=true&area=true&color=0078D4" alt="Agalya's Activity Trend" width="90%" />
+<!-- Real-time Activity Graph -->
+<img src="[https://github-readme-activity-graph.vercel.app/graph?username=agalya-data-analyst&theme=github-compact&hide_border=true&area=true&color=0078D4](https://github-readme-activity-graph.vercel.app/graph?username=agalya-data-analyst&theme=github-compact&hide_border=true&area=true&color=0078D4)" alt="Agalya's Activity Trend" width="90%" />
 
-<br/><br/>
+</div>
 
-<!-- Terminal Console Style Stats -->
+<br/>
+
 ```console
 [SYSTEM_STATUS]: Active Data Analytics Portfolio
 [PRIMARY_STACK]: SQL | Power BI | Python | Excel
 [METRICS_LOG]  : 100K+ Shipment Rows Cleaned | 3+ Star Schema Models Built
 [TARGET_ROLE]  : Junior Data Analyst / Supply Chain Analyst
-</div>
----
 
 ## 🎓 Currently Learning & Up-skilling
 
