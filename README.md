@@ -1,7 +1,6 @@
-<div align="center">
-
-<!-- Updated File Name -->
-<img src="Github-banner.gif.gif" width="100%" />
+<p align="center">
+  <img src="Github-banner.gif.gif" alt="GitHub Banner" width="100%">
+</p>
 
 <br/><br/>
 
