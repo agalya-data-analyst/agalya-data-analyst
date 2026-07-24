@@ -1,29 +1,26 @@
 <div align="center">
 
-<!-- Animated Waving Header Banner -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0078D4&height=180&section=header&text=Agalya%20J&fontSize=42&fontColor=ffffff&desc=Junior%20Data%20Analyst%20%7C%20Supply%20Chain%20%26%20Operations&descSize=18&descAlignY=72" width="100%" />
+# Agalya J
+### Data Analyst | Power BI • SQL • Advanced Excel • Python
+
+**SQL | Power BI | Python | Advanced Excel | Power Query | DAX**
 
 <br/>
 
-<!-- Varshini Style Typing Animation Text -->
+<!-- 🎯 Typing Animation - Skills, Analytics Keywords & Mission -->
 <a href="https://github.com/agalya-data-analyst">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0078D4&center=true&vCenter=true&width=600&height=40&lines=SQL+%7C+Power+BI+%7C+Python+%7C+Advanced+Excel;Supply+Chain+%26+Operations+Analytics;Power+Query+%7C+DAX+%7C+Data+Modeling" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=0078D4&center=true&vCenter=true&width=700&height=50&lines=Core+Skills%3A+SQL+%7C+Power+BI+%7C+Python+%7C+Excel;Analytics%3A+Data+Cleaning+%7C+Star+Schema+%7C+DAX;Focus%3A+Supply+Chain+%7C+Delivery+Variance+%7C+OTIF;Mission%3A+Turning+raw+data+into+actionable+insights." alt="Typing Animation" />
 </a>
 
 <br/><br/>
 
-<!-- Sleek Interactive Badges & Views Counter -->
-<a href="https://www.linkedin.com/in/agalyajayapal/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/agalya-data-analyst">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=agalya-data-analyst&color=0078d4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
----
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agalyajayapal/)
+[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agalya-data-analyst)
+![Profile Views](https://komarev.com/ghpvc/?username=agalya-data-analyst&color=008080&style=for-the-badge)
 
 </div>
+
+---
 
 ## 🙋‍♀️ About Me
 
