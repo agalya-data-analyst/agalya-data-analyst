@@ -127,33 +127,34 @@ agalya = {
 ---
 
 ## 📈 GitHub Activity
+## 📊 Analytics & Profile Activity
 
 <div align="center">
 
-<!-- 1. Snake Animation on Contribution Grid -->
-### 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/agalya-data-analyst/agalya-data-analyst/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+<!-- Modern Metric Cards (Plain Table-ku badhula Sleek Cards) -->
+<a href="https://github.com/agalya-data-analyst">
+  <img src="https://img.shields.io/badge/Public_Repositories-10+-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/agalya-data-analyst">
+  <img src="https://img.shields.io/badge/Live_Dashboards-3_Completed-217346?style=for-the-badge&logo=power-bi&logoColor=white" />
+</a>
+<a href="https://github.com/agalya-data-analyst">
+  <img src="https://img.shields.io/badge/Data_Processed-100K%2B_Rows-CC292B?style=for-the-badge&logo=python&logoColor=white" />
+</a>
 
-<br/>
-<br/>
+<br/><br/>
 
-<!-- 2. Neon Activity Line Graph -->
-### ⚡ Contribution Activity Wave
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=agalya-data-analyst&theme=react-dark&hide_border=true&area=true" alt="Agalya's Activity Graph" width="95%" />
+<!-- Real-time Activity Graph (Dark Neon Wave Theme) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=agalya-data-analyst&theme=github-compact&hide_border=true&area=true&color=0078D4" alt="Agalya's Activity Trend" width="90%" />
 
-<br/>
-<br/>
+<br/><br/>
 
-<!-- 3. Dynamic Stats Cards with Glassmorphism / Dark Theme -->
-<img src="https://github-readme-stats.vercel.app/api?username=agalya-data-analyst&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Agalya's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agalya-data-analyst&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="42%" />
-
-<br/>
-
-<!-- 4. Dynamic Commit Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=agalya-data-analyst&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%" />
-
-</div>
+<!-- Terminal Console Style Stats -->
+```console
+[SYSTEM_STATUS]: Active Data Analytics Portfolio
+[PRIMARY_STACK]: SQL | Power BI | Python | Excel
+[METRICS_LOG]  : 100K+ Shipment Rows Cleaned | 3+ Star Schema Models Built
+[TARGET_ROLE]  : Junior Data Analyst / Supply Chain Analyst
 ---
 
 ## 🎓 Currently Learning & Up-skilling
