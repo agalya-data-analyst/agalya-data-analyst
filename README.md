@@ -126,7 +126,6 @@ agalya = {
 
 ---
 
-## 📈 GitHub Activity
 ## 📊 Analytics & Profile Activity
 
 <div align="center">
@@ -157,7 +156,8 @@ agalya = {
 [TARGET_ROLE]  : Junior Data Analyst / Supply Chain Analyst
 ---
 
-## 🎓 Currently Learning & Up-skilling
+
+## 🎓 **Currently Learning & Up-skilling**
 
 | Skill / Domain | Focus Area | Status |
 | --- | --- | --- |
@@ -168,7 +168,7 @@ agalya = {
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 **Let's Connect**
 
 I am actively seeking **Junior Data Analyst ** opportunities. Let's collaborate or discuss data-driven roles!
 
