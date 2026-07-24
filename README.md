@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 AGALYA J
+#     AGALYA J
 ### **DATA ANALYST | POWER BI • SQL • PYTHON • EXCEL**
 
 ---
