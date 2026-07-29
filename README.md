@@ -125,6 +125,14 @@ agalya = {
 * Analyzed factory sales data to uncover regional distribution patterns, top-performing product categories, and sales performance indicators.
 * `Excel` `Data Analysis` `Sales Performance`
 
+### 📦 [Multi-Channel Supply Chain Warehouse Inventory & Safety Stock Framework](https://github.com/agalya-data-analyst/Supply-Chain-Inventory-Framework)
+
+> **Python | Pandas | EDA | Inventory Optimization | Safety Stock Analytics**
+
+* Integrated 1.16M+ records of sales and stock data to automate stockout alerts (`Stock_Status_Alert`) and optimize dynamic safety stock levels.
+* Calculated inventory turnover metrics to minimize deadstock and reduce profit erosion from product returns.
+* `Python` `Pandas` `EDA` `Supply Chain Analytics` `Data Science`
+
 ---
 
 ## 📊 Analytics & Profile Activity
