@@ -97,35 +97,35 @@ agalya = {
 
 ## 📌 Featured Projects
 
-### 🚚 [DataCo Smart Supply Chain Analysis](https://www.google.com/search?q=https://github.com/agalya-data-analyst/supply-chain-analysis)
+### 🚚 [DataCo Smart Supply Chain Analysis](https://github.com/agalya-data-analyst/supply-chain-analysis)
 
 > **Power BI | Power Query | DAX | Logistics Analytics**
 
 * Processed and cleaned 100,000+ shipment records to track delivery status distributions, shipping delay variances, and freight cost optimizations.
 * `Power BI` `Power Query` `DAX` `Supply Chain Analytics`
 
-### 🛒 [E-Commerce Sales & Inventory Analysis](https://www.google.com/search?q=https://github.com/agalya-data-analyst/Ecommerce-Sales-Analysis)
+### 🛒 [E-Commerce Sales & Inventory Analysis](https://github.com/agalya-data-analyst/Ecommerce-Sales-Analysis)
 
 > **Advanced Excel | Dynamic Dashboards | Inventory KPIs**
 
 * Built an interactive sales tracking and inventory analysis dashboard using Excel to monitor dynamic sales trends, stock turnover, and order metrics.
 * `Excel` `Pivot Tables` `Dynamic Dashboards` `Sales Analysis`
 
-### 📦 [Blinkit Retail Sales Analysis](https://www.google.com/search?q=https://github.com/agalya-data-analyst/blinkit-retail-sales-analysis)
+### 📦 [Blinkit Retail Sales Analysis](https://github.com/agalya-data-analyst/blinkit-retail-sales-analysis)
 
 > **Power BI | Data Modeling | Retail KPIs**
 
 * Designed a comprehensive retail analytics dashboard evaluating channel performance, product category breakdown, and customer sales insights.
 * `Power BI` `Data Modeling` `Retail Analytics`
 
-### 🏭 [Chocolate Factory Sales Analysis](https://www.google.com/search?q=https://github.com/agalya-data-analyst/Chocolate-Factory-Sales-Analysis)
+### 🏭 [Chocolate Factory Sales Analysis](https://github.com/agalya-data-analyst/Chocolate-Factory-Sales-Analysis)
 
 > **Excel | Data Visualization | Trend Analysis**
 
 * Analyzed factory sales data to uncover regional distribution patterns, top-performing product categories, and sales performance indicators.
 * `Excel` `Data Analysis` `Sales Performance`
 
-### 📦 [Multi-Channel Supply Chain Warehouse Inventory & Safety Stock Framework](https://github.com/agalya-data-analyst/Supply-Chain-Inventory-Framework)
+### 📦 [Multi-Channel Supply Chain Warehouse Inventory & Safety Stock Framework](https://github.com/agalya-data-analyst/Inventory-Optimization-Analysis)
 
 > **Python | Pandas | EDA | Inventory Optimization | Safety Stock Analytics**
 
